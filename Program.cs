@@ -6,6 +6,7 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("GitHubLab");
             Console.WriteLine("Version: {0}", Environment.Version.ToString()); ;
         }
     }
